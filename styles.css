@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.one{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.two{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.three{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.four{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+}
+.five{
+	width:100px;
+	height:100px;
+	background-color:orange;
+}
